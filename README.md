@@ -2,7 +2,7 @@
 
 **defile** converts files (images, audio, video, etc.) into React/Preact components.
 
-![](https://d3vv6lp55qjaqc.cloudfront.net/items/110R3p0j3n470W1k3F14/defile.png)
+![](https://d3vv6lp55qjaqc.cloudfront.net/items/0j3Q2t16281r3R3Y151w/defile.png)
 
 ## Installation
 
