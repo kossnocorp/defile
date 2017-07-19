@@ -1,0 +1,29 @@
+{
+  "name": "defile",
+  "version": "0.1.0",
+  "description": "Converts files into components",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kossnocorp/defile.git"
+  },
+  "keywords": [
+    "webpack",
+    "file-loader",
+    "defile-loader",
+    "react",
+    "preact"
+  ],
+  "author": "Sasha Koss <koss@nocorp.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kossnocorp/defile/issues"
+  },
+  "homepage": "https://github.com/kossnocorp/defile#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
